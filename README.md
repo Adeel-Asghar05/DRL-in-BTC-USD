@@ -44,4 +44,4 @@ Other details:
 - Add clear comments for each step of the code.
 
 main idea is to detect direction of vtc in next hour same with some threshhold and +ve or -ve
-currently using dqn and
+currently using dqn and want next with ppo after research it is more stavel for continous actions and learning continous pattrens
